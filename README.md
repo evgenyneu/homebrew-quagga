@@ -8,4 +8,3 @@ Homebrew tap for [Quagga](https://github.com/evgenyneu/quagga), a command-line u
 brew tap evgenyneu/quagga
 brew install quagga
 ```
-

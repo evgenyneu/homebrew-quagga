@@ -19,6 +19,3 @@ class Quagga < Formula
     system "#{bin}/quagga", "--version"
   end
 end
-
-
-
